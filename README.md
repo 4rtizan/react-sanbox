@@ -1,3 +1,2 @@
-# react-ts-aznzbt
+# react sandbox
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-aznzbt)
